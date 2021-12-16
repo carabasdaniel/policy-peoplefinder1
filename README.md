@@ -2,7 +2,7 @@
 
 This repository houses the Aserto policy for the PeopleFinder sample.
 
-test1
+test2
 
 ## Directory structure
 
